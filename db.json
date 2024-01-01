@@ -1,0 +1,19 @@
+{
+  "invoice": [
+    {
+      "id": 2,
+      "mobile": "9999999999",
+      "invoiceDate": "12-12-2023",
+      "product": [
+        {
+          "productId": 1,
+          "unitPrice": 0,
+          "qty": 0,
+          "Amount": "0.00"
+        }
+      ],
+      "amount": 0,
+      "count": 0
+    }
+  ]
+}
